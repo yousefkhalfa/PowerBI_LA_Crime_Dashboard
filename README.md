@@ -108,4 +108,8 @@ The analysis shows crime peaks in early months, declines mid-year, and rises aga
 ---
 
 ## 📢 Connect  
-💡 Interested in discussing this project or similar data analytics work? Feel free to reach out!  
+💡 Interested in discussing this project or similar data analytics work? Feel free to reach out!
+
+📧 Email: ykhalfa@uci.edu
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yousefkhalfa/)
+
