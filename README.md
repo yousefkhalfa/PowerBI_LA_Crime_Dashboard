@@ -97,6 +97,13 @@ This project analyzes **Los Angeles crime data** from **2020 to present**, utili
 - Analyzed **crime distribution across different categories**  
 
 ---
+## 📌 Preview  
+
+![General_Overview_Page](https://github.com/user-attachments/assets/28a2de71-dc13-4b47-b455-2afb65c3dd4d)
+![Violent_Crime_Page](https://github.com/user-attachments/assets/e515db5e-3308-49fd-ac3d-0322d889494b)
+![Property_Crime_Page](https://github.com/user-attachments/assets/d7ad201a-f769-41f1-a129-4bb5f41600a7)
+![Others_Crime_Page](https://github.com/user-attachments/assets/65b753e1-936a-4c34-9516-f031d1792e01)
+
 
 ## 📌 Conclusion  
 
@@ -110,5 +117,5 @@ The analysis shows crime peaks in early months, declines mid-year, and rises aga
 💡 Interested in discussing this project or similar data analytics work? Feel free to reach out!
 
 📧 Email: ykhalfa@uci.edu
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yousefkhalfa/)
+🔗 LinkedIn: [linkedin.com/in/yousefkhalfa](https://www.linkedin.com/in/yousefkhalfa/)
 
