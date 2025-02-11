@@ -71,15 +71,14 @@ This project analyzes **Los Angeles crime data** from **2020 to present**, utili
 ### 📅 **Crime Trends by Month**  
 | Month  | Crime Count |
 |--------|------------|
-| **January & February** | 🔺 Highest crime rates (~95K) |
+| **January & February** | 🔺 Highest crime rates (~89k) |
 | **March - June** | 🔽 Gradual decline (~81K) |
 | **July & October** | 🔺 Short-term spikes (~84K) |
 | **December** | 🔽 Lowest crime rates (~78.2K) |
 
 ### 📍 **Crime Hotspots (Los Angeles)**
 - **🔴 Downtown LA, Inglewood, Lynwood** (Highest crime density)  
-- **🔴 West Hollywood, Beverly Hills, East LA** (Crime concentration)  
-- **🔴 Crime is **more frequent in urbanized, densely populated areas**  
+- **🔴 Crime seems to be more frequent in urbanized, densely populated areas**  
 
 ---
 
